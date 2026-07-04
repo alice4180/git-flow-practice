@@ -1,0 +1,7 @@
+# 전체 기본 리뷰어
+*              @alice4180
+
+# 특정 경로별 지정 리뷰어
+/src/backend/  @alice4180
+/src/frontend/ @alice4180
+/docs/         @alice4180
